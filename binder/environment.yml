@@ -1,0 +1,5 @@
+name: kafka-nootebooks
+dependencies:
+  - kotlin-jupyter-kernel
+channels:
+  - jetbrains
